@@ -1,0 +1,94 @@
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.application
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ActualizarClientes.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.BuscarClientes.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ConsultaCliente.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.NuevoCotizacion.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmAdministrador.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmAyuda.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmBackup.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmBuscarArticulo.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmCajero.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmClientes.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmConfiguracion.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmCuadre.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmDescuento.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmDigitador.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmFacturacion.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmInformacion.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmInventario.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmPrueba.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmReporte.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmVentas.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.Inicio.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.Login.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.NuevoCliente.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.NuevoUsuario.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.csproj.GenerateResource.Cache
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\RdlCompile.cache
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.application
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.exe
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.pdb
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ConsultaArticulo.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ConsultaUsuarios.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmReporteCompra.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ConsultaEntradaUsuarios.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ConsultaInventario.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ActualizarUsuarios.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.NuevoArticulos.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmFactura.resources
+C:\Users\Pc\documents\visual studio 2010\Projects\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmComprobante.resources
+B:\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.exe
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.pdb
+B:\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.manifest
+B:\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.application
+B:\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+B:\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ActualizarClientes.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ActualizarUsuarios.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.BuscarClientes.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ConsultaCliente.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ConsultaArticulo.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ConsultaEntradaUsuarios.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ConsultaUsuarios.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.ConsultaInventario.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmComprobante.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmDigitador.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmFactura.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmReporteCompra.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.NuevoArticulos.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.NuevoCotizacion.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmAdministrador.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmAyuda.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmBackup.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmBuscarArticulo.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmCajero.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmClientes.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmConfiguracion.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmCuadre.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmDescuento.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmFacturacion.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmInformacion.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmInventario.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.frmPrueba.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmReporte.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.FrmVentas.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.Inicio.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.Login.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.NuevoCliente.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.NuevoUsuario.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.Properties.Resources.resources
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.csproj.GenerateResource.Cache
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\RdlCompile.cache
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\RdlCompile.compiled
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.exe.manifest
+B:\PuntoDeVenta\PuntoDeVenta\obj\x86\Debug\PuntoDeVenta.application
